@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+
+  }
+.button {
+  border: rgb(19, 0, 0);
+  color: white;
+  padding: 14px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1 {background-color: #2b4eeb;} 
+.button2 {background-color: #af8bc0;}
+
+    h4{
+        color:rgb(224, 236, 243); 
+    }
